@@ -1,1 +1,3 @@
 data
+backend/.env
+backend/test.env
